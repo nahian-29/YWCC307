@@ -5,5 +5,5 @@ Hello,
 <p>
 <b>Welcome to my YWCC 307 Repository.</b>
 </p>
-Here you will be able to see my latest work related to this course.
+Here you will be able to view my latest work related to this course.
 
